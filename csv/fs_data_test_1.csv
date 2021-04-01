@@ -1,0 +1,6 @@
+l1d_size,l1d_assoc,l2cache,l2assoc,mem_type,l1d_hwp_type,cacheline_size,sim_seconds
+64,8,OFF,4,DDR3_2133_8x8,None,128,0.153071
+64,1,ON,1,DDR3_2133_8x8,None,128,0.055491
+512,2,OFF,2,DDR3_1600_8x8,AMPMPrefetcher,32,0.046145
+512,2,OFF,1,DDR3_1600_8x8,BOPPrefetcher,32,0.044993
+32,8,ON,1,DDR3_1600_8x8,AMPMPrefetcher,64,0.059966
